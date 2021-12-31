@@ -1,0 +1,44 @@
+<log type="Session" name="LENOVO-PC:Martin" at="2021-12-31 00:00:25.480"/>
+<log type="Test" name="DemoOnlineShop-RVLJS" status="Info"  at="2021-12-31 00:00:54.276"><data type="text">Test Started: C:\Users\Martin\Documents\My Rapise Tests\DemoOnlineShop-RVLJS\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2021-12-31 00:00:54.368"/>
+<log type="Assert" name="Play RVL@Main.rvl.xlsx" status="Pass" comment=""  at="2021-12-31 00:00:54.397"><data type="text">RVL</data>
+<data type="text">Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Phones.DoClick([])" status="Pass"  at="2021-12-31 00:01:15.300" comment="Returned Value: true" />
+<log type="Assert" name="Laptops.DoClick([])" status="Pass"  at="2021-12-31 00:01:16.790" comment="Returned Value: true" />
+<log type="Assert" name="Monitors.DoClick([])" status="Pass"  at="2021-12-31 00:01:20.038" comment="Returned Value: true" />
+<log type="Assert" name="Laptops.DoClick([])" status="Pass"  at="2021-12-31 00:01:21.365" comment="Returned Value: true" />
+<log type="Assert" name="Sony_vaio_i5.DoClick([])" status="Pass"  at="2021-12-31 00:01:22.740" comment="Returned Value: true" />
+<log type="Assert" name="Add_to_cart.DoClick([])" status="Pass"  at="2021-12-31 00:01:30.166" comment="Returned Value: true" />
+<log type="Assert" name="Browser popup message: Product added" status="Pass"  at="2021-12-31 00:01:33.040"><data type="text" caption="Real Message">Product added</data>
+<data type="text" caption="Expected Message">Product added</data>
+</log>
+<log type="Assert" name="PRODUCT_STORE.DoClick([])" status="Pass"  at="2021-12-31 00:01:34.697" comment="Returned Value: true" />
+<log type="Assert" name="Laptops.DoClick([])" status="Pass"  at="2021-12-31 00:01:43.166" comment="Returned Value: true" />
+<log type="Assert" name="Dell_i7_8gb.DoClick([])" status="Pass"  at="2021-12-31 00:01:45.880" comment="Returned Value: true" />
+<log type="Assert" name="Add_to_cart.DoClick([])" status="Pass"  at="2021-12-31 00:01:54.369" comment="Returned Value: true" />
+<log type="Assert" name="Browser popup message: Product added" status="Pass"  at="2021-12-31 00:01:54.528"><data type="text" caption="Real Message">Product added</data>
+<data type="text" caption="Expected Message">Product added</data>
+</log>
+<log type="Assert" name="Cart.DoClick([])" status="Pass"  at="2021-12-31 00:01:55.832" comment="Returned Value: true" />
+<log type="Assert" name="Delete.DoClick([])" status="Pass"  at="2021-12-31 00:02:03.399" comment="Returned Value: true" />
+<log type="Assert" name="Attaching to spreadsheet" status="Pass"  at="2021-12-31 00:02:06.018" comment="C:\Users\Martin\Documents\My Rapise Tests\DemoOnlineShop-RVLJS\OrderIDsAndAmounts.xlsx" />
+<log type="Assert" name="OrderIDsAndAmounts.DoAddRow([])" status="Pass"  at="2021-12-31 00:02:06.131" comment="Returned Value: 6" />
+<log type="Assert" name="OrderIDsAndAmounts.DoSave([])" status="Pass"  at="2021-12-31 00:02:06.648" comment="Returned Value: true" />
+<log type="Assert" name="Place_Order.DoClick([])" status="Pass"  at="2021-12-31 00:02:07.960" comment="Returned Value: true" />
+<log type="Assert" name="Name.DoSetText([&quot;Ma Test&quot;])" status="Pass"  at="2021-12-31 00:02:09.164" comment="Returned Value: true" />
+<log type="Assert" name="Country.DoSetText([&quot;Spain&quot;])" status="Pass"  at="2021-12-31 00:02:10.339" comment="Returned Value: true" />
+<log type="Assert" name="City.DoSetText([&quot;Tarifa&quot;])" status="Pass"  at="2021-12-31 00:02:11.489" comment="Returned Value: true" />
+<log type="Assert" name="Credit_card.DoSetText([&quot;7645333789009076&quot;])" status="Pass"  at="2021-12-31 00:02:12.664" comment="Returned Value: true" />
+<log type="Assert" name="Month.DoClick([])" status="Pass"  at="2021-12-31 00:02:13.950" comment="Returned Value: true" />
+<log type="Assert" name="Month.DoSetText([&quot;04&quot;])" status="Pass"  at="2021-12-31 00:02:15.096" comment="Returned Value: true" />
+<log type="Assert" name="Year.DoClick([])" status="Pass"  at="2021-12-31 00:02:16.447" comment="Returned Value: true" />
+<log type="Assert" name="Year.DoSetText([&quot;2024&quot;])" status="Pass"  at="2021-12-31 00:02:17.693" comment="Returned Value: true" />
+<log type="Assert" name="Purchase.DoClick([])" status="Pass"  at="2021-12-31 00:02:19.005" comment="Returned Value: true" />
+<log type="Assert" name="OrderIDsAndAmounts.DoSave([])" status="Pass"  at="2021-12-31 00:02:19.764" comment="Returned Value: true" />
+<log type="Assert" name="Order price equals total price (cart)" status="Pass"  at="2021-12-31 00:02:19.957"><data type="text">Amount: 790 USD</data>
+<data type="text"></data>
+</log>
+<log type="Assert" name="OK.DoClick([])" status="Pass"  at="2021-12-31 00:02:21.247" comment="Returned Value: true" />
+<log type="Test" name="DemoOnlineShop-RVLJS" status="Pass" closed="DemoOnlineShop-RVLJS" _guid="undefined"  at="2021-12-31 00:02:21.291" comment="Passed:31 Failed:0 Time:87.904s" />

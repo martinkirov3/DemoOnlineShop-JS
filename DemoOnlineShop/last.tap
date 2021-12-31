@@ -1,0 +1,34 @@
+# DemoOnlineShop-RVLJS
+# Starting scenario: Test
+ok 1 - Play RVL@Main.rvl.xlsx
+ok 2 - Phones.DoClick([])
+ok 3 - Laptops.DoClick([])
+ok 4 - Monitors.DoClick([])
+ok 5 - Laptops.DoClick([])
+ok 6 - Sony_vaio_i5.DoClick([])
+ok 7 - Add_to_cart.DoClick([])
+ok 8 - Browser popup message: Product added
+ok 9 - PRODUCT_STORE.DoClick([])
+ok 10 - Laptops.DoClick([])
+ok 11 - Dell_i7_8gb.DoClick([])
+ok 12 - Add_to_cart.DoClick([])
+ok 13 - Browser popup message: Product added
+ok 14 - Cart.DoClick([])
+ok 15 - Delete.DoClick([])
+ok 16 - Attaching to spreadsheet
+ok 17 - OrderIDsAndAmounts.DoAddRow([])
+ok 18 - OrderIDsAndAmounts.DoSave([])
+ok 19 - Place_Order.DoClick([])
+ok 20 - Name.DoSetText(["Ma Test"])
+ok 21 - Country.DoSetText(["Spain"])
+ok 22 - City.DoSetText(["Tarifa"])
+ok 23 - Credit_card.DoSetText(["7645333789009076"])
+ok 24 - Month.DoClick([])
+ok 25 - Month.DoSetText(["04"])
+ok 26 - Year.DoClick([])
+ok 27 - Year.DoSetText(["2024"])
+ok 28 - Purchase.DoClick([])
+ok 29 - OrderIDsAndAmounts.DoSave([])
+ok 30 - Order price equals total price (cart)
+ok 31 - OK.DoClick([])
+ok 32 - DemoOnlineShop-RVLJS
