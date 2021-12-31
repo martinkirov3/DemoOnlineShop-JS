@@ -1,0 +1,294 @@
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Player Starting...
+Rapise Version:7.1.24.53
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+###DemoOnlineShop-RVLJS (-2)
+###Starting scenario: Test (-2)
+###Play RVL@Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\Martin\Documents\My Rapise Tests\DemoOnlineShop-RVLJS\Main.rvl.xlsx
+SetRowIndex: 0:75
+Playing script: Script: C:\Users\Martin\Documents\My Rapise Tests\DemoOnlineShop-RVLJS\Main.rvl.xlsx:RVL, 76 source rows 0 errors
+Looking for object:Phones
+StartTrackingChrome WND: 787636
+g_chromeHwnd: 787636
+Connecting to Proxy at port: 1200
+Connected to chrome:Chrome Legacy Window[Chrome_RenderWidgetHostHWND]
+Accessible object: [ROLE_SYSTEM_WINDOW]
+Using default WebAppProfile
+Chrome Extension Version: 3.0.10
+Chrome active URL: https://www.demoblaze.com/cart.html#
+Connected to Chrome window:https://www.demoblaze.com/cart.html#
+Chrome window is invalid. Reconnecting...
+StartTrackingChrome WND: 98766038
+g_chromeHwnd: 98766038
+Connecting to Proxy at port: 1200
+Connected to chrome:Chrome Legacy Window[Chrome_RenderWidgetHostHWND]
+Accessible object: [ROLE_SYSTEM_WINDOW]
+Using library defined WebAppProfile
+Chrome Extension Version: 3.0.10
+Chrome active URL: https://www.demoblaze.com/
+Connected to Chrome window:https://www.demoblaze.com/
+StartTrackingChrome WND: 98766038
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Phones.DoClick([]) (1)
+Action result:true
+Looking for object:Laptops
+StartTrackingChrome WND: 98766038
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Laptops.DoClick([]) (1)
+Action result:true
+Looking for object:Monitors
+StartTrackingChrome WND: 98766038
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Monitors.DoClick([]) (1)
+Action result:true
+Looking for object:Laptops
+StartTrackingChrome WND: 98766038
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Laptops.DoClick([]) (1)
+Action result:true
+Looking for object:Sony_vaio_i5
+StartTrackingChrome WND: 98766038
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Sony_vaio_i5.DoClick([]) (1)
+Action result:true
+Looking for object:Add_to_cart
+Chrome window is invalid. Reconnecting...
+StartTrackingChrome WND: 30278448
+g_chromeHwnd: 30278448
+Connecting to Proxy at port: 1200
+Connected to chrome:Chrome Legacy Window[Chrome_RenderWidgetHostHWND]
+Accessible object: [ROLE_SYSTEM_WINDOW]
+Using library defined WebAppProfile
+Chrome Extension Version: 3.0.10
+Chrome active URL: https://www.demoblaze.com/prod.html?idp_=8
+Connected to Chrome window:https://www.demoblaze.com/prod.html?idp_=8
+StartTrackingChrome WND: 30278448
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Add_to_cart.DoClick([]) (1)
+Action result:true
+Looking for object:Navigator
+###Browser popup message: Product added (1)
+Looking for object:PRODUCT_STORE
+StartTrackingChrome WND: 30278448
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###PRODUCT_STORE.DoClick([]) (1)
+Action result:true
+Looking for object:Laptops
+Chrome window is invalid. Reconnecting...
+StartTrackingChrome WND: 853172
+g_chromeHwnd: 853172
+Connecting to Proxy at port: 1200
+Connected to chrome:Chrome Legacy Window[Chrome_RenderWidgetHostHWND]
+Accessible object: [ROLE_SYSTEM_WINDOW]
+Using library defined WebAppProfile
+Chrome Extension Version: 3.0.10
+Chrome active URL: https://www.demoblaze.com/index.html
+Connected to Chrome window:https://www.demoblaze.com/index.html
+StartTrackingChrome WND: 853172
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Laptops.DoClick([]) (1)
+Action result:true
+Looking for object:Dell_i7_8gb
+StartTrackingChrome WND: 853172
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Dell_i7_8gb.DoClick([]) (1)
+Action result:true
+Looking for object:Add_to_cart
+Chrome window is invalid. Reconnecting...
+StartTrackingChrome WND: 30343984
+g_chromeHwnd: 30343984
+Connecting to Proxy at port: 1200
+Connected to chrome:Chrome Legacy Window[Chrome_RenderWidgetHostHWND]
+Accessible object: [ROLE_SYSTEM_WINDOW]
+Using library defined WebAppProfile
+Chrome Extension Version: 3.0.10
+Chrome active URL: https://www.demoblaze.com/prod.html?idp_=12
+Connected to Chrome window:https://www.demoblaze.com/prod.html?idp_=12
+StartTrackingChrome WND: 30343984
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Add_to_cart.DoClick([]) (1)
+Action result:true
+Looking for object:Navigator
+###Browser popup message: Product added (1)
+Looking for object:Cart
+StartTrackingChrome WND: 30343984
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Cart.DoClick([]) (1)
+Action result:true
+Looking for object:Delete
+Chrome window is invalid. Reconnecting...
+StartTrackingChrome WND: 918708
+g_chromeHwnd: 918708
+Connecting to Proxy at port: 1200
+Connected to chrome:Chrome Legacy Window[Chrome_RenderWidgetHostHWND]
+Accessible object: [ROLE_SYSTEM_WINDOW]
+Using library defined WebAppProfile
+Chrome Extension Version: 3.0.10
+Chrome active URL: https://www.demoblaze.com/cart.html
+Connected to Chrome window:https://www.demoblaze.com/cart.html
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Delete.DoClick([]) (1)
+Action result:true
+Looking for object:Price
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+Looking for object:OrderIDsAndAmounts
+###Attaching to spreadsheet (1)
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:undefined(Spreadsheet)[-1]
+DoAddRow([])
+###OrderIDsAndAmounts.DoAddRow([]) (1)
+Action result:6
+Looking for object:OrderIDsAndAmounts
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:undefined(Spreadsheet)[-1]
+Looking for object:OrderIDsAndAmounts
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:undefined(Spreadsheet)[-1]
+DoSave([])
+###OrderIDsAndAmounts.DoSave([]) (1)
+Action result:true
+Looking for object:Place_Order
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Place_Order.DoClick([]) (1)
+Action result:true
+Looking for object:Name
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoSetText(["Ma Test"])
+###Name.DoSetText(["Ma Test"]) (1)
+Action result:true
+Looking for object:Country
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoSetText(["Spain"])
+###Country.DoSetText(["Spain"]) (1)
+Action result:true
+Looking for object:City
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoSetText(["Tarifa"])
+###City.DoSetText(["Tarifa"]) (1)
+Action result:true
+Looking for object:Credit_card
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoSetText(["7645333789009076"])
+###Credit_card.DoSetText(["7645333789009076"]) (1)
+Action result:true
+Looking for object:Month
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Month.DoClick([]) (1)
+Action result:true
+Looking for object:Month
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoSetText(["04"])
+###Month.DoSetText(["04"]) (1)
+Action result:true
+Looking for object:Year
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Year.DoClick([]) (1)
+Action result:true
+Looking for object:Year
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoSetText(["2024"])
+###Year.DoSetText(["2024"]) (1)
+Action result:true
+Looking for object:Purchase
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###Purchase.DoClick([]) (1)
+Action result:true
+Looking for object:Order_Id
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+Looking for object:Order_price
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+Looking for object:OrderIDsAndAmounts
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:undefined(Spreadsheet)[-1]
+Looking for object:OrderIDsAndAmounts
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:undefined(Spreadsheet)[-1]
+Looking for object:OrderIDsAndAmounts
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:undefined(Spreadsheet)[-1]
+DoSave([])
+###OrderIDsAndAmounts.DoSave([]) (1)
+Action result:true
+Looking for object:Order_price
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+###Order price equals total price (cart) (1)
+Looking for object:OK
+StartTrackingChrome WND: 918708
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+DoClick([])
+###OK.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+###DemoOnlineShop-RVLJS (1)
+Test execution done
+##############################################################
+Test Pass: DemoOnlineShop-RVLJS,  (Passed:31 Failed:0 Time:87.904s)
+Test Session Status: Pass Time: 139.358s
+##############################################################
